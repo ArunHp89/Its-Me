@@ -1,0 +1,199 @@
+@media only screen and (max-width: 1400px) {
+    .progress-nav {
+        right: 18px;
+    }
+    .footer-bottom-girl {
+        left: 5%;
+    }
+    
+}
+
+@media only screen and (min-width: 1200px) {
+    .container {
+        max-width: 1270px;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    .container-fluid {
+        max-width: 1370px;
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    .testimonial-left-image {
+        margin-right: -100px;
+    }
+    .testimonials-content {
+        padding-bottom: 40px;
+    }
+    .sidebar {
+        margin-left: auto;
+    }
+    
+}
+
+@media only screen and (max-width: 1199px) {
+    .number-email-cv {
+        display: none;
+    }
+    .about-content h1 {
+        font-size: 55px;
+    }
+    .testimonial-icon {
+        bottom: 40px;
+    }
+    
+}
+
+
+@media only screen and (max-width: 991px) {
+    .body-piling .brand {
+        left: 25px;
+        top: 25px;
+    }
+    .nav-toggle-btn {
+        right: 25px;
+        top: 25px;
+    }
+    .lets-chat {
+        right: 85px;
+        top: 25px;
+    }
+    .weapons-images,
+    .service-content {
+        margin-left: 0;
+    }
+    .slide-container {
+        padding-top: 185px;
+        padding-right: 15px;
+    }
+    .header {
+        position: fixed;
+        height: 85px;
+        width: 100%;
+        z-index: 10;
+        left: 0;
+        top: 0;
+        background: var(--light-color);
+        box-shadow: 0px 0px 30px 0px rgb(0 0 0 / 10%);
+    }
+
+    
+}
+
+@media only screen and (max-width: 767px) {
+    .container,
+    .container-fluid {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .about-content h1,
+    .landing-review-content h1 {
+        font-size: 45px;
+    }
+    .landing-preview-item .image {
+        height: 400px;
+    }
+    
+}
+
+@media only screen and (max-width: 575px) {
+    .serction-title h2 {
+        font-size: 30px;
+    }
+    .about-content h3 {
+        font-size: 25px;
+    }
+    .blog-meta {
+        flex-wrap: wrap;
+    }
+    .blog-meta li:not(:last-child) {
+        padding-right: 0;
+    }
+    .blog-meta li:not(:last-child):after {
+        display: none;
+    }
+    .page-title,
+    .about-content h1,
+    .landing-review-content h1 {
+        font-size: 40px;
+    }
+    blockquote {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    .comment-item.child-comment {
+        margin-left: 25px;
+    }
+    
+}
+
+@media only screen and (max-width: 480px) {
+    .service-item {
+        width: 100%;
+    }
+    .comment-item,
+    .counter-wrap {
+        display: block;
+    }
+    .success-box:not(:last-child) {
+        border-right: none;
+        padding-right: 0;
+        margin-right: 0;
+    }
+    .testimonial-icon {
+        height: 55px;
+        width: 55px;
+        bottom: 110px;
+        font-size: 25px;
+        line-height: 55px;
+        border-radius: 10px;
+    }
+    .contact-content {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    .contact-form textarea {
+        height: 150px;
+    }
+    .blog-item h3,
+    .footer-contact h3 {
+        font-size: 20px;
+    }
+    .section-title h2 {
+        font-size: 30px;
+    }
+    
+}
+
+@media only screen and (max-width: 400px) {
+    .edu-experi-item .years {
+        width: 55px;
+    }
+    .page-title {
+        font-size: 35px;
+    }
+    
+}
+
+@media only screen and (max-width: 375px) {
+    .lets-chat {
+        right: 66px;
+    }
+    .section-title h2 {
+        font-size: 28px;
+    }
+    .about-content h3 {
+        font-size: 20px;
+    }
+    blockquote p,
+    .about-content p {
+        font-size: 16px;
+    }
+    .blog-item h3 {
+        font-size: 18px;
+    }
+    .landing-preview-item .image {
+        height: 300px;
+    }
+    
+}
